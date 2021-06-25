@@ -1,5 +1,17 @@
 # hover-for-context
 
+_This extension lets you view relevant contextual info cards for content onyour webpage._
+
+![](home.png)
+![](about.png)
+
+Authors: Yonah Aviv & _____
+
+
+© 2021 Y330
+
+
+
 ## Project setup
 ```
 pnpm install
